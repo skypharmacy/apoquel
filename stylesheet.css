@@ -32,7 +32,7 @@ header{
 
 .product-wrapper{
   margin-top:50px;
-  height:700px;
+  height:500px;
   text-align:center;
   background-color: #f7f7f7;
 }
@@ -54,7 +54,7 @@ header{
 }
 
 .product img{
-  width:200px;
+  width:400px;
 }
 
 .detail p{
